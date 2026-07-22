@@ -74,3 +74,10 @@ You can use the normal ggplot aesthetics too!
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" alt="" width="100%" />
+
+## Code of Conduct
+
+Please note that the ggspeciesaccumulation project is released with a
+[Contributor Code of
+Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
